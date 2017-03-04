@@ -1,5 +1,5 @@
 # AMShyBar
-
+![img][https://github.com/CoderAMing/AMShyBar/blob/master/amshybar.gif]
 * Import ```UIViewController+AMShyBar.h``` in your controller
 * 实现以下2个方法
 
